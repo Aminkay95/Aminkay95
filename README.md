@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aminkay95
-- 👀 I’m interested in Data  
-- 🌱 I’m currently learning Data Engineering 
-- 💞️ I’m looking to collaborate on any Data project
+- 👀 I’m interested in anything Tech  
+- 🌱 I’m currently learning Fullstack Development
+- 💞️ I’m looking to collaborate on any  project
 - 📫 Reach me via email mohamedamino882@gmail.com 
 
 <!---
